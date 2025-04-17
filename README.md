@@ -1,6 +1,6 @@
 # AWS SageMaker MLOps POC: House Price Prediction for Kitchener and Waterloo, Ontario
 
-#Objective
+## Objective
 Predict house sale prices specifically for the Kitchener and Waterloo regions in Ontario, Canada using AWS SageMaker and MLOps best practices, including:
 Data wrangling
 Feature engineering with SageMaker Feature Store
