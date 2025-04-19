@@ -37,13 +37,6 @@ This will open SageMaker Studio in a new browser tab.
 Go to the S3 console
 Create a new bucket: sagemaker-kitchener-waterloo-housing
 Enable versioning (optional but recommended)
-Folder structure example:
-
-s3://sagemaker-kitchener-waterloo-housing/
-├── raw/
-├── processed/
-├── models/
-└── batch_output/
 
 ### 4. Download & Upload Dataset
 
